@@ -78,7 +78,7 @@ We need to be able to:
 * Delete an existing task
 * Adding a new task
 * Update data from task (title, description, status)
-* Reorder columns content and the columns themselves
+* Reorder columns content and the columns themselves. These changes must be reflected in DB (add any necessary field to it)
 
 We will appreciate some of this extra functionalities:
 
